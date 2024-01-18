@@ -9,12 +9,12 @@ Below, you'll find an overview of the project, its features, and how to get star
 
 FileBlox is designed with digital creators specifically in mind. It combines the power of secure file storage with the ability to tokenize and monetize your creative works on your own terms.
 
-Decentralized Marketplace for Encrypted NFTs
-NFT marketplaces have helped artists, designers, musicians, and content creators in engaging their patrons, monetizing their works, and reducing the number of intermediaries that stand between them and their audience.
+Decentralized Marketplace for Encrypted NFTs,
+NFT marketplaces have helped artists, designers, musicians, and content creators engage their patrons, monetizing their works, and reducing the number of intermediaries that stand between them and their audience.
 
 There’s just one famous problem with NFTs that doesn’t seem to go: you can’t turn exclusive content into an NFT because then everyone can see them. Anyone can just download a file from these marketplaces as they wish.
 
-How We Solve it
+How We Solved it?
 
 We believe that some digital files are valuable assets that need protection from piracy and unauthorized use. So we created a way for people to tokenize their digital creations while only making them accessible to people who legitimately paid for them.
 
@@ -43,7 +43,7 @@ Contributions are welcome! If you'd like to contribute to this project, follow t
 If you have any questions, concerns, or feedback, feel free to reach out to me:
 
 - Email: errand.doersph@gmail.com
-- Phone: +63965 059 7021
+- Telegram: @lycaoncreatives
 
 ---
 
@@ -52,7 +52,7 @@ If you have any questions, concerns, or feedback, feel free to reach out to me:
 - 👀 I’m interested in ... Blockchain and AI
 - 🌱 I’m currently learning ... DAO, Web 3 and AI
 - 💞️ I’m looking to collaborate on ... blockchain tech
-- 📫 How to reach me ... llc.advertising@gmail.com
+- 📫 How to reach me ... nextblock.sg@gmail.com
 
 <!---
 
@@ -78,6 +78,12 @@ Here are some of the projects I have worked on:
 Project Name: Errand Doers PH - You can take research on Facebook how it works
 
 Project Name #2: El Lote PH - a food brand that tries to be a go-to food place for a To Go business concept.
+
+Project Name #3: Our Cuisina - a ghost kitchen concept to help food brands scale  while minimizing their capital risk
+
+Project Name #4: Next Block - NextBlock draws its inspiration from the very essence of blockchain – a continuous chain of progress across diverse technologies. Just as each validated transaction forms a block in the digital world, Next Block stands as the vital link propelling the future of emerging technologies such as Blockchain, Artificial Intelligence, Internet of Things, Web 3, and various technologies.
+
+As an Events Management Company specializing in the Tech Space, Next Block serves as the nucleus for visionaries, thought leaders, developers, investors, and enthusiasts across the AI, blockchain, and emerging technologies communities. In this dynamic and ever-evolving landscape, we believe in the power of collaboration. Next Block is the platform where ideas, innovations, and opportunities converge, creating a thriving ecosystem that accelerates the true potential of these technologies.
 
 Learning Journey
 I'm currently in a phase where I can quickly absorb and process large amounts of information. I'm eager to expand my knowledge and gain a deeper understanding of coding concepts. I may not know everything yet, but I'm always ready to tackle new challenges and learn from experienced developers.
