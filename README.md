@@ -42,7 +42,7 @@ Contributions are welcome! If you'd like to contribute to this project, follow t
 
 If you have any questions, concerns, or feedback, feel free to reach out to me:
 
-- Email: errand.doersph@gmail.com
+- Email: errand.doersph@gmail.com or llc.advertising@gmail.com
 - Telegram: @lycaoncreatives
 
 ---
