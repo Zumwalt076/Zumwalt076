@@ -1,93 +1,359 @@
-# READ ME TO LEARN MORE ABOUT ME
+# 👋 Hi, I'm Jaydee Rebadulla
 
-(https://ethglobal.com/showcase/fileblox-y0rjm)
+### Ecosystem Builder • Venture Developer • Emerging Technology Builder
 
-Welcome to the GitHub repository for our awesome project! This repository contains the source code, documentation, and resources related to the project. 
-Below, you'll find an overview of the project, its features, and how to get started.
+I build at the intersection of **technology, communities, ventures, and real-world adoption**.
 
-## About the Project
+My work spans **Artificial Intelligence, Ethereum/Web3, blockchain, venture development, developer ecosystems, community infrastructure, Civic Tech, and emerging technologies**.
 
-FileBlox is designed with digital creators specifically in mind. It combines the power of secure file storage with the ability to tokenize and monetize your creative works on your own terms.
+I don't believe technology creates impact simply because it exists.
 
-Decentralized Marketplace for Encrypted NFTs,
-NFT marketplaces have helped artists, designers, musicians, and content creators engage their patrons, monetizing their works, and reducing the number of intermediaries that stand between them and their audience.
+It creates impact when **builders use it, communities adopt it, institutions support it, and ecosystems form around it.**
 
-There’s just one famous problem with NFTs that doesn’t seem to go: you can’t turn exclusive content into an NFT because then everyone can see them. Anyone can just download a file from these marketplaces as they wish.
-
-How We Solved it?
-
-We believe that some digital files are valuable assets that need protection from piracy and unauthorized use. So we created a way for people to tokenize their digital creations while only making them accessible to people who legitimately paid for them.
-
-So how does it work?
-
-Content creator will upload the file along with its properties like name, price, description.. and also a cover image that will be used as the image placeholder for the encrypted NFT in the marketplace.
-
-The backend will automatically upload the file to IPFS, encrypt its location, and then return a hash that will be minted as a property to the NFT
-
-Once somebody has paid to mint the NFT, they can now view it on their user dashboard.
-
-When they click download, FileBlox checks if they own the NFT that contains the hash. If they do, it will be decrypted and the user is led to the location of the file.
-
-## Contributing
-
-Contributions are welcome! If you'd like to contribute to this project, follow these steps:
-
-1. Fork this repository.
-2. Create a new branch: `git checkout -b feature/your-feature-name`
-3. Make your changes and commit: `git commit -am 'Add some feature'`
-4. Push to the branch: `git push origin feature/your-feature-name`
-5. Create a pull request.
-
-## Support and Contact
-
-If you have any questions, concerns, or feedback, feel free to reach out to me:
-
-- Email: errand.doersph@gmail.com or llc.advertising@gmail.com
-- Telegram: @lycaoncreatives
+This GitHub is my working archive of things I have **built, contributed to, experimented with, helped activate, and continue to learn from**.
 
 ---
 
-**Note:** This repository is for hosting project files and documentation. The actual project may have further updates and features not reflected here.
-- 👋 Hi, I’m @Zumwalt076
-- 👀 I’m interested in ... Blockchain and AI
-- 🌱 I’m currently learning ... DAO, Web 3 and AI
-- 💞️ I’m looking to collaborate on ... blockchain tech
-- 📫 How to reach me ... nextblock.sg@gmail.com
+# 🚀 What I'm Building Now
 
-<!---
+## 🏛️ Civic Tech — BetterBaguio & Better Muntinlupa
 
-About Me
-Hey there! I'm Zumwalt076, a passionate learner and aspiring venture development firm. I'm excited to share my journey and projects with you on GitHub. I have a strong drive to make a positive social impact through my work. Currently, I'm focusing on learning Figma and building projects that contribute to solve problems in our society.
+I am currently contributing to and helping activate **BetterBaguio** and **Better Muntinlupa** — local civic-tech movements inspired by the broader BetterGov ecosystem.
 
-Skills and Interests
-Figma: I am actively learning and improving my skills in Figma. I enjoy exploring its powerful features and creating visually appealing designs. I just used this once and during fileblox only!
-Social Impact: I believe in the power of technology to bring about positive change. I am dedicated to using my skills to build projects that make a meaningful impact on society.
-Public Speaking
-Interpersonal skills
-Leadership
-Management skills
-Solution-Oriented
-Transferable skills
-Stable Emotional Quotient
-Public Relations
+The goal is simple:
 
-Projects
+> Make government information, civic participation, public services, and opportunities easier for ordinary citizens to understand and access.
 
-Here are some of the projects I have worked on:
+The work extends beyond websites.
 
-Project Name: Errand Doers PH - You can take research on Facebook how it works
+We are exploring how communities of **developers, designers, entrepreneurs, students, creatives, institutions, businesses, and citizens** can participate in improving their cities.
 
-Project Name #2: El Lote PH - a food brand that tries to be a go-to food place for a To Go business concept.
+Areas we are interested in include:
 
-Project Name #3: Our Cuisina - a ghost kitchen concept to help food brands scale  while minimizing their capital risk
+- Open and accessible government information
+- Civic participation
+- Government transparency
+- Ease of doing business
+- Right to connectivity
+- Creative economy
+- Smart cities
+- Public-service innovation
+- Community-driven technology
+- Open-source civic infrastructure
+- Transparency
 
-Project Name #4: Next Block - NextBlock draws its inspiration from the very essence of blockchain – a continuous chain of progress across diverse technologies. Just as each validated transaction forms a block in the digital world, Next Block stands as the vital link propelling the future of emerging technologies such as Blockchain, Artificial Intelligence, Internet of Things, Web 3, and various technologies.
+🌲 BetterBaguio: https://betterbaguio.org/
+🚧 BetterMuntinlupa: 
 
-As an Events Management Company specializing in the Tech Space, Next Block serves as the nucleus for visionaries, thought leaders, developers, investors, and enthusiasts across the AI, blockchain, and emerging technologies communities. In this dynamic and ever-evolving landscape, we believe in the power of collaboration. Next Block is the platform where ideas, innovations, and opportunities converge, creating a thriving ecosystem that accelerates the true potential of these technologies.
+---
 
-Learning Journey
-I'm currently in a phase where I can quickly absorb and process large amounts of information. I'm eager to expand my knowledge and gain a deeper understanding of coding concepts. I may not know everything yet, but I'm always ready to tackle new challenges and learn from experienced developers.
+## 🤖 AI & Agentic Systems
 
-Zumwalt076/Zumwalt076 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I am actively studying, experimenting with, and prototyping around the next generation of AI applications.
+
+Current areas of interest include:
+
+- LLM applications
+- AI agents
+- Tool calling
+- Agent orchestration
+- Retrieval-Augmented Generation (RAG)
+- Model Context Protocol (MCP)
+- APIs and connectors
+- Multi-agent systems
+- AI evaluations
+- Guardrails
+- Human-in-the-loop workflows
+- Enterprise AI
+- AI × Blockchain
+- Autonomous digital systems
+
+My long-term interest is not simply in using AI tools, but in understanding:
+
+> **How do we build ecosystems where AI agents, software, organizations, communities and humans can coordinate safely and productively?**
+
+---
+
+## 🌐 Real-World Assets & Tokenization
+
+Another area I am exploring is the convergence of:
+
+**Blockchain + Real Estate + Finance + Digital Identity + Tokenization**
+
+I am particularly interested in how tokenization can create new infrastructure around traditionally illiquid assets while incorporating identity, compliance, governance and institutional requirements.
+
+---
+
+# 🧱 Things I've Built & Helped Build
+
+## 🔐 FileBlox
+
+**Encrypted digital assets + decentralized storage + tokenized ownership**
+
+🔗 https://ethglobal.com/showcase/fileblox-y0rjm
+
+FileBlox was built around a simple problem:
+
+> How can creators tokenize and sell digital content without making the underlying files publicly accessible to everyone?
+
+The project combines:
+
+- NFTs
+- IPFS
+- Encryption
+- Ownership verification
+- Decentralized storage
+- Token-gated file access
+
+Creators upload their digital work, which is stored using decentralized infrastructure. Access information is encrypted and associated with the NFT.
+
+When someone acquires the NFT, FileBlox verifies ownership before providing access to the underlying content.
+
+### 🏆 ETHGlobal
+
+FileBlox was built during ETHGlobal and received **two hackathon recognitions — Best Use and Best Integration**.
+
+That experience helped push me deeper into Ethereum, open-source ecosystems, hackathons and builder communities.
+
+---
+
+# ♦️ Ethereum & Web3 Ecosystem
+
+## ETH63 — Ethereum Community in the Philippines
+
+I am a founding contributor and ecosystem builder around **ETH63**, an Ethereum community focused on growing the Ethereum ecosystem in the Philippines.
+
+Our work has included:
+
+- Ethereum meetups
+- Developer workshops
+- University activations
+- Technical education
+- Community programs
+- Protocol collaborations
+- Road to Devcon initiatives
+- Builder onboarding
+- Regional ecosystem coordination
+
+The larger mission:
+
+> Help more Filipinos move from being users of emerging technology to becoming builders of it.
+
+---
+
+## 🌏 Ethereum Southeast Asia
+
+I have also contributed to initiatives connecting Ethereum communities across Southeast Asia.
+
+This included helping lead the **Ethereum Southeast Asia Hub during Devcon 7 in Bangkok**, connecting communities and builders across multiple Southeast Asian countries.
+
+I also participated in **Ethereum SEA Day** and other regional ecosystem initiatives.
+
+---
+
+# 🛠️ ETHGlobal
+
+Hackathons have played an important role in my journey.
+
+### 🏆 Builder — ETHGlobal
+
+Built and contributed to **FileBlox**, which received two hackathon recognitions.
+
+### 🤝 Core Volunteer Contributor
+
+I later returned to ETHGlobal from another side of the ecosystem — helping support builders.
+
+I volunteered at:
+
+- **ETHGlobal Singapore 2024**
+- **ETHGlobal Bangkok 2024**
+
+Supporting areas including:
+
+- Participant registration
+- Builder experience
+- Logistics
+- Wayfinding
+- Event operations
+- Community support
+
+Being both a **hackathon participant and hackathon volunteer** shaped how I think about developer ecosystems.
+
+The code matters.
+
+But so does everything surrounding the code:
+
+**documentation → onboarding → community → mentorship → infrastructure → capital → opportunities → distribution**
+
+---
+
+# 🧠 AI Network Philippines
+
+I helped develop **AI Network Philippines** as a grassroots ecosystem for people interested in:
+
+- Artificial Intelligence
+- AI engineering
+- Generative AI
+- Developers and builders
+- Startups
+- Emerging technology
+- AI × Blockchain
+- Responsible technology adoption
+
+My interest is particularly in creating environments where people can go from:
+
+**Curious → Learning → Building → Collaborating → Launching**
+
+---
+
+# ☕ Breakfast Clubs
+
+I have also been building geographically rooted founder and operator communities.
+
+These include:
+
+### Alabang Breakfast Club
+### Baguio Breakfast Club
+### Makati Breakfast Club
+
+The idea is to create high-trust environments that bring together:
+
+- Founders
+- Builders
+- Investors
+- Entrepreneurs
+- Operators
+- Creatives
+- Professionals
+- Technology leaders
+- Institutions
+
+Formats range from:
+
+- Founder roundtables
+- Panel discussions
+- Investor × startup matchmaking
+- Technology discussions
+- University programs
+- Lifestyle gatherings
+- Workshops
+- Community activations
+
+I see community not simply as an audience.
+
+> **Community is infrastructure.**
+
+Strong communities create relationships.
+
+Relationships create collaboration.
+
+Collaboration creates companies, projects, capital, opportunities and ecosystems.
+
+---
+
+# 🏗️ Venture Building
+
+Before becoming deeply involved in Web3 and emerging technology, I was already building businesses and communities.
+
+Some of the ventures and initiatives I have worked on or helped develop include:
+
+### 🌽 El Lote PH
+
+A food venture that began by bringing Mexican-style elote to the Philippine market.
+
+It taught me early lessons around:
+
+- Product development
+- Customer experience
+- Branding
+- Operations
+- Distribution
+- Growth
+
+### 🏃 Errand Doers PH
+
+A community-driven service initiative developed around helping people accomplish errands and everyday tasks.
+
+The experience reinforced something that continues to influence how I build today:
+
+> Good ventures start with real problems.
+
+---
+
+# 🌱 Ecosystem Building
+
+Over time, my work evolved from building individual ventures into building the environments around them.
+
+I have worked across:
+
+- Ethereum ecosystems
+- AI communities
+- Startup ecosystems
+- Founder communities
+- Universities
+- Developer communities
+- Protocols
+- Investors
+- Institutions
+- Government and civic initiatives
+- International technology events
+
+Some programs and ecosystems I have contributed to include:
+
+- ETH63
+- AI Network Philippines
+- Ethereum Southeast Asia
+- Ethereum SEA Hub
+- ETHGlobal
+- d/acc berlin
+- Ethereum New York
+- Alabang Breakfast Club
+- Baguio Breakfast Club
+- Makati Breakfast Club
+- BetterBaguio
+- Better Muntinlupa
+- University technology programs
+- Founder & investor communities
+
+---
+
+# 🧪 What I'm Exploring
+
+My GitHub will increasingly contain experiments around:
+
+```text
+AI Agents
+│
+├── RAG
+├── MCP
+├── Tool Calling
+├── Agent Orchestration
+├── Evals
+├── Guardrails
+└── Human-in-the-loop systems
+
+Civic Tech
+│
+├── Open Government Data
+├── Local Government Information
+├── Citizen Services
+├── Public Transparency
+└── Community Participation
+
+Web3
+│
+├── Ethereum
+├── Smart Contracts
+├── Decentralized Storage
+├── Digital Identity
+├── Tokenization
+└── Real-World Assets
+
+Ecosystem Infrastructure
+│
+├── Developer Communities
+├── Builder Onboarding
+├── Hackathons
+├── Universities
+├── Venture Development
+└── Community Coordination
