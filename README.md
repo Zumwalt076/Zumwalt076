@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Jaydee Rebadulla
+# 👋 Hi, I'm Jaydee
 
 ### Ecosystem Builder • Venture Developer • Emerging Technology Builder
 
